@@ -21,3 +21,6 @@ API üzerinden bir GET isteği yapar ve dönen yanıtın durum kodunun 200 oldu�
 API üzerinden bir POST isteği yapar, yeni bir kayıt oluşturur ve oluşturulan kaydı kontrol eder.
 
 Her testin test datası ve konfigürasyonu `config.properties` dosyasında bulunmaktadır. Testler, bu dosyadan okunan verilerle çalışır.
+
+
+*Not: Proje OpenJDK 22 sürümü ile uyumludur ve çalışması için bu sürümün yüklü olması gerekmektedir.*
